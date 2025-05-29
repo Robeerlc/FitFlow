@@ -16,16 +16,6 @@ FitFlow nace como respuesta a la creciente demanda de soluciones digitales en el
 
 ---
 
-## ✨ Objetivos del proyecto
-
-- Desarrollar un marketplace funcional para conectar entrenadores y deportistas.
-- Implementar un chatbot capaz de atender consultas y motivar al usuario.
-- Crear un sistema de personalización de planes de entrenamiento y suplementación.
-- Integrar funcionalidades sociales para compartir logros y progresos.
-- Ofrecer una experiencia de usuario fluida, atractiva e intuitiva.
-
----
-
 ## 📦 Contenido del repositorio
 
 - `docs/`: Documentación del proyecto (requisitos, diagramas, conclusiones).
@@ -36,37 +26,22 @@ FitFlow nace como respuesta a la creciente demanda de soluciones digitales en el
 
 ---
 
-## ⚙️ Requisitos funcionales clave
+## 🏷️ Licencia
 
-- Registro y gestión de perfiles para entrenadores y usuarios.
-- Búsqueda avanzada y reserva de sesiones.
-- Pagos seguros integrados en la app.
-- Chatbot inteligente para asistencia y motivación.
-- Personalización dinámica de entrenamientos y suplementos.
-- Sistema de valoraciones y comentarios.
-- Compartir logros directamente en redes sociales.
+Este proyecto está bajo licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ---
 
-## 🔒 Requisitos no funcionales
+## 📚 Bibliografía y referencias
 
-- Interfaz responsiva, atractiva e intuitiva.
-- Alta disponibilidad y rendimiento.
-- Seguridad en el manejo de datos personales y financieros.
-- Arquitectura escalable para soportar crecimiento.
+- Artículos, frameworks, librerías y fuentes usadas se documentan en el apartado de bibliografía dentro de la carpeta `docs/`.
 
 ---
 
-## 📊 Diagramas incluidos
+## 🌟 Eslogan
 
-- Casos de uso.
-- Clases de análisis.
-- Entidad-Relación.
-- Clases de diseño.
+> **Encuentra tu ritmo, entra en tu flow.**
 
 ---
 
-## 🚀 Cómo contribuir
-
-1. Haz un fork del repositorio.
-2. Clona tu fork:
+¡Gracias por interesarte en este proyecto! Si tienes sugerencias, mejoras o ideas, no dudes en abrir un issue o hacer un pull request. 💬✨
