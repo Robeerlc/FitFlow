@@ -19,7 +19,7 @@ FitFlow nace como respuesta a la creciente demanda de soluciones digitales en el
 ## 📦 Contenido del repositorio
 
 - `docs/`: Documentación del proyecto (requisitos, diagramas, conclusiones).
-- `mockups/`: Prototipos de interfaz y pantallas clave.
+- `media/`: Prototipos de interfaz y pantallas clave, iconos y logos.
 - `src/`: Código fuente de la aplicación.
 - `diagrams/`: Diagramas de casos de uso, clases, entidad-relación, diseño.
 - `README.md`: Este archivo.
