@@ -18,17 +18,18 @@ FitFlow nace como respuesta a la creciente demanda de soluciones digitales en el
 
 ## 📦 Contenido del repositorio
 
-- `docs/`: Documentación del proyecto (requisitos, diagramas, conclusiones).
-- `media/`: Prototipos de interfaz y pantallas clave, iconos y logos.
-- `src/`: Código fuente de la aplicación.
-- `diagrams/`: Diagramas de casos de uso, clases, entidad-relación, diseño.
-- `README.md`: Este archivo.
+- `diagrams/`: diagramas de casos de uso, clases, entidad-relación, diseño.
+- `docs/`: documentación del proyecto (requisitos, diagramas, conclusiones).
+- `media/`: prototipos de interfaz y pantallas clave, iconos y logos.
+- `src/`: código fuente de la aplicación.
+- `LICENSE`: licencia del proyecto.
+- `README.md`: este archivo.
 
 ---
 
 ## 🏷️ Licencia
 
-Este proyecto está bajo licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo licencia propietaria. Consulta el archivo `LICENSE` para más detalles.
 
 ---
 
