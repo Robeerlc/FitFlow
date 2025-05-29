@@ -51,7 +51,7 @@ Este proyecto se distribuye bajo licencia **propietaria**. Consulta el archivo `
 
 ## 🌟 **Eslogan**
 
-> _Encuentra tu ritmo, entra en tu flow._
+> **_Encuentra tu ritmo, entra en tu flow._**
 
 ---
 
