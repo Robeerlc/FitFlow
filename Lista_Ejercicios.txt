@@ -1,0 +1,467 @@
+PECTORAL	Press banca plano
+PECTORAL	Press banca inclinado a 30º
+PECTORAL	Press plano con mancuernas
+PECTORAL	Press inclinado a 30º con mancuernas
+PECTORAL	Press plano cerrado con mancuernas
+PECTORAL	Press plano con mancuernas alterno
+PECTORAL	Press unilateral en banco inclinado
+PECTORAL	Press de pecho en máquina
+PECTORAL	Press de pecho en máquina de discos
+PECTORAL	Aperturas en máquina de discos 
+PECTORAL	Press de pecho unilateral en máquina de discos
+PECTORAL	Press de pecho uniltateral de lado en máquina de discos
+PECTORAL	Peck deck
+PECTORAL	Press unilateral con polea de pie
+PECTORAL	Larsen press
+PECTORAL	Aperturas con mancuernas en banco inclinado a 30º
+PECTORAL	Aperturas con mancuernas en banco plano
+PECTORAL	Cruces de poleas desde abajo
+PECTORAL	Cruces de poleas desde arriba
+PECTORAL	Cruces de poleas desde abajo unilateral
+PECTORAL	Cruces de poleas desde arriba unilateral
+PECTORAL	Cruces de polea en banco ligeramente inclinado
+PECTORAL	Flexiones
+PECTORAL	Bayesian flies con muñequeras en banco inclinado a 75º
+PECTORAL	Floor press con barra
+PECTORAL	Floor press con mancuernas
+PECTORAL	Floor press con mancuernas unilateral
+PECTORAL	Fondos en paralelas
+PECTORAL	Fondos en paralelas asistidos con tronco verticalizado
+PECTORAL	Press banca plano en multipower
+PECTORAL	Press banca inclinado a 30º en multipower
+PECTORAL	Press inclinado a 45º con mancuernas
+PECTORAL	Peck deck con agarres de poleas
+PECTORAL	Floor press con mancuernas en puente de glúteo
+PECTORAL	Flexiones profundas con soportes
+PECTORAL	Flexiones con rodillas apoyadas
+ESPALDA	Remo con barra
+ESPALDA	Remo en máquina
+ESPALDA	Remo en máquina unilateral
+ESPALDA	Front lever raises con piernas flexionadas
+ESPALDA	Remo a una mano con mancuernas con piernas asimétricas
+ESPALDA	
+ESPALDA	Remo de pie con pecho apoyado en máquina de discos con agarre neutro
+ESPALDA	Remo en máquina de discos con agarre prono abierto
+ESPALDA	Remo en polea baja bilateral
+ESPALDA	Remo en polea baja con muñequera unilateral
+ESPALDA	Remo en T con pecho apoyado
+ESPALDA	Remo en T sin pecho apoyado
+ESPALDA	Remo gironda
+ESPALDA	Remo gironda con goma
+ESPALDA	Remo pendlay
+ESPALDA	Remo unilateral en máquina de discos con agarre neutro
+ESPALDA	Front Lever Tuck (flex)
+ESPALDA	Front Lever Straddle (split)
+ESPALDA	Front Lever (rango parcial)
+ESPALDA	Negativas de Front Lever
+ESPALDA	Front Lever (rango completo)
+ESPALDA	Remo unilateral en máquina de discos con agarre prono abierto
+ESPALDA	Remo unilateral en polea a altura media con pecho apoyado en banco
+ESPALDA	Remo en TRX
+ESPALDA	Remo en TRX con los pies elevados
+ESPALDA	Remo inverso en barra
+ESPALDA	Remo con mancuernas de pie
+ESPALDA	Dominadas neutras
+ESPALDA	Dominadas pronas
+ESPALDA	Dominadas neutras con goma en un pie
+ESPALDA	Dominadas pronas asistidas con goma
+ESPALDA	Dominadas pronas con lastre
+ESPALDA	Jalón al pecho
+ESPALDA	Jalón al pecho agarre neutro
+ESPALDA	Jalón al pecho en máquina
+ESPALDA	Jalón al pecho en máquina alterno
+ESPALDA	Jalón al pecho unilateral
+ESPALDA	Jalón desde polea alta con pecho apoyado con agarre bilateral
+ESPALDA	Jalón desde polea alta con pecho apoyado con agarre unilateral
+ESPALDA	Low cable rear delt row bilateral con muñequeras sentado
+ESPALDA	Peso muerto convencional
+ESPALDA	Peso muerto con pausa en mitad de la tibia
+ESPALDA	Peso muerto con agarre de arrancada
+ESPALDA	Peso muerto en barra hexagonal
+ESPALDA	Pullover en polea con cuerda
+ESPALDA	Pullover en polea alta de rodillas en banco inclinado
+ESPALDA	Hiperextensión Lumbar con lastre
+ESPALDA	Rack chins
+ESPALDA	Peso muerto rumano con barra
+ESPALDA	Peso muerto en barra hexagonal con pausa en mitad de la tibia
+ESPALDA	Peso muerto sumo
+ESPALDA	Dominadas neutras lastradas
+ESPALDA	Remo alto en máquina Hammer
+ESPALDA	Remo unilateral con polea a altura media sentado en banco con mano apoyada en el respaldo
+ESPALDA	Remo a una mano en máquina de pie con otra apoyada
+ESPALDA	Pullover unilateral en polea alta de rodillas
+ESPALDA	Pullover unilateral en polea alta con muñequera
+ESPALDA	Jalón al pecho con agarres individuales en barra común
+ESPALDA	Aducción de rodillas desde polea alta
+ESPALDA	Dominadas neutras con goma en una rodilla
+ESPALDA	Jalón a una mano desde polea alta de rodillas
+ESPALDA	Peso muerto en déficit
+ESPALDA	Remo con goma a 90º
+ESPALDA	Dominadas supinas
+ESPALDA	Peso muerto desde bloques
+ESPALDA	Seal row con mancuernas en banco inclinado
+DELTOIDES ANTERIOR	Press militar con barra
+DELTOIDES ANTERIOR	Press de hombros en máquina
+DELTOIDES ANTERIOR	Press militar en máquina de discos
+DELTOIDES ANTERIOR	Press de hombros alterno en máquina
+DELTOIDES ANTERIOR	Press de hombros con mancuernas sentado
+DELTOIDES ANTERIOR	Press de hombros con mancuernas en banco ligeramente inclinado a 75º
+DELTOIDES ANTERIOR	Press militar en banco ligeramente inclinado
+DELTOIDES ANTERIOR	Press militar con banda elástica
+DELTOIDES ANTERIOR	Press unilateral en landmine con pies simétricos
+DELTOIDES ANTERIOR	Press landmine unilateral con pies asimétricos
+DELTOIDES ANTERIOR	Press unilateral en landmine en half kneeling
+DELTOIDES ANTERIOR	Push press con barra
+DELTOIDES LATERAL	Elevaciones laterales con mancuernas
+DELTOIDES LATERAL	Elevaciones laterales con mancuerna unilateral
+DELTOIDES LATERAL	Elevaciones laterales a una mano con la otra apoyada en la pared
+DELTOIDES LATERAL	Elevaciones laterales en polea baja unilateral
+DELTOIDES LATERAL	Elevaciones laterales en polea baja con muñequera unilateral
+DELTOIDES LATERAL	Elevaciones laterales en polea con muñequeras bilateral
+DELTOIDES LATERAL	Elevaciones laterales con muñequera cruzando en polea baja apoyado sobre banco
+DELTOIDES POSTERIOR	Face pull de pie
+DELTOIDES POSTERIOR	Face pull sentado
+DELTOIDES POSTERIOR	Face pull desde polea alta tumbado en banco inclinado a 45º
+DELTOIDES POSTERIOR	Face pull con goma
+DELTOIDES POSTERIOR	Six ways
+DELTOIDES POSTERIOR	Six ways de pie
+DELTOIDES LATERAL	Elevaciones laterales con mancuernas con punto de restricción en banco inclinado
+DELTOIDES LATERAL	Elevaciones laterales con mancuernas de rodillas en banco ligeramente inclinado
+DELTOIDES POSTERIOR	Pájaros en máquina
+DELTOIDES LATERAL	Elevaciones laterales a una mano con mancuerna apoyado de lado en banco inclinado
+DELTOIDES POSTERIOR	Pájaros desde polea alta
+DELTOIDES LATERAL	Elevaciones laterales a una mano desde polea a altura de las rodillas con muñequera
+DELTOIDES LATERAL	Elevaciones laterales con muñequeras en banco inclinado
+DELTOIDES POSTERIOR	Low delt cable row unilateral
+DELTOIDES ANTERIOR	Press unilateral con kettebell en posición de caballero
+DELTOIDES ANTERIOR	Press militar sentado en multipower
+TRAPECIO	Encogimientos con barra con agarre amplio
+TRAPECIO	Encogimientos con mancuernas con pecho sobre banco inclinado
+TRAPECIO	Encogimientos con barra hexagonal
+TRAPECIO	Encogimientos desde polea baja
+BÍCEPS	Curl araña con barra EZ
+BÍCEPS	Curl araña con mancuernas
+BÍCEPS	Curl bayesian unilateral en polea baja
+BÍCEPS	Curl de bíceps alterno con mancuernas
+BÍCEPS	Curl de bíceps alterno con mancuernas en banco ligeramente inclinado
+BÍCEPS	Curl de bíceps con barra EZ
+BÍCEPS	Curl de bíceps con mancuernas bilateral en banco
+BÍCEPS	Curl de bíceps en polea con barra
+BÍCEPS	Curl de bíceps en polea con cuerda
+BÍCEPS	Curl de bíceps martillo con mancuernas
+BÍCEPS	Máquina de curl de bíceps en banco predicador
+BÍCEPS	Curl de bíceps con barra Z sentado en banco scott
+BÍCEPS	Curl de bíceps unilateral con mancuerna sentado en banco scott
+BÍCEPS	Curl de bíceps con goma
+BÍCEPS	Curl de bíceps desde polea bilateral de pie
+BÍCEPS	Curl de bíceps con barra 
+TRÍCEPS	Press francés con barra EZ
+TRÍCEPS	Press francés con barra EZ en banco inclinado
+TRÍCEPS	Flexiones en Diamante 
+TRÍCEPS	Press francés con mancuernas en banco plano
+TRÍCEPS	Press francés con mancuernas en el suelo
+TRÍCEPS	JM Press
+TRÍCEPS	JM Press en multipower
+TRÍCEPS	Extensión de tríceps desde polea alta con barra
+TRÍCEPS	Extensión de tríceps desde polea alta con cuerda
+TRÍCEPS	Extensión de tríceps en polea con agarre en V
+TRÍCEPS	Extensión de tríceps katana desde polea baja unilateral con muñequera
+TRÍCEPS	Extensión de tríceps overhead unilateral con cuerda en polea baja
+TRÍCEPS	Extensión de tríceps unilateral con muñequera
+TRÍCEPS	Extensión de tríceps unilateral con muñequera de espaldas
+TRÍCEPS	Extensión de tríceps unilateral desde polea alta con agarre neutro
+TRÍCEPS	Extensión de tríceps trasnuca con mancuerna unilateral
+TRÍCEPS	Extensión de tríceps overhead en copa con mancuerna
+TRÍCEPS	Press francés con barra en polea baja tumbado en el suelo
+TRÍCEPS	Fondos de tríceps en máquina
+TRÍCEPS	Patada de tríceps unilateral en polea baja con cuerda
+TRÍCEPS	Press francés con mancuernas en banco inclinado
+TRÍCEPS	Fondos de tríceps en banco con piernas flexionadas
+TRÍCEPS	Fondos de tríceps en cajón con piernas extendidas
+GLÚTEO	Elevación de cadera bipodal
+GLÚTEO	Elevación de cadera unipodal
+GLÚTEO	Hip thrust con barra
+GLÚTEO	Floor hip thrust
+GLÚTEO	Floor hip thrust unipodal
+GLÚTEO	Frog pump
+GLÚTEO	Hip thrust en máquina
+GLÚTEO	Extensiones de cadera en silla romana para glúteos
+GLÚTEO	Patada de glúteo en máquina de discos
+GLÚTEO	Pull throught
+GLÚTEO	Sentadilla búlgara con mancuerna contralateral con énfasis en el glúteo
+GLÚTEO	Sentadilla búlgara en multipower con énfasis en el glúteo
+GLÚTEO	Hip thrust con barra unipodal
+GLÚTEO	Kettlebell swing
+GLÚTEO	Hip thrust con abducción con miniband
+CUÁDRICEPS	Media sentadilla con barra
+CUÁDRICEPS	Media sentadilla en mutipower
+CUÁDRICEPS	Box Squat
+CUÁDRICEPS	Sentadilla barra alta
+CUÁDRICEPS	Sentadilla frontal
+CUÁDRICEPS	Sentadilla safety
+CUÁDRICEPS	Sentadilla en haka
+CUÁDRICEPS	Sentadilla profunda en multipower
+CUÁDRICEPS	Sentadilla búlgara con mancuernas
+CUÁDRICEPS	Sentadilla barra baja
+CUÁDRICEPS	Prensa inclinada
+CUÁDRICEPS	Prensa inclinada con 2 bandas de resistencia
+CUÁDRICEPS	Prensa inclinada con una banda de resistencia
+CUÁDRICEPS	Extensiones de cuádriceps en máquina de discos
+CUÁDRICEPS	Extensiones de cuádriceps en máquina de discos unipodal
+CUÁDRICEPS	Extensiones de cuádriceps en máquina de discos: concéntrica bipodal + excéntrica unipodal
+CUÁDRICEPS	Extensiones de cuádriceps en máquina de placas
+CUÁDRICEPS	Nórdico inverso
+CUÁDRICEPS	Nórdico inverso con peso
+CUÁDRICEPS	Split estático con kettlebell contralateral
+CUÁDRICEPS	Sentadilla búlgara con mancuerna contralateral con énfasis en el cuádriceps
+CUÁDRICEPS	Sentadilla búlgara en multipower con énfasis en el cuádriceps
+CUÁDRICEPS	Step up a cajón + rodilla arriba
+CUÁDRICEPS	Step down en cajón unipodal
+CUÁDRICEPS	Subida a cajón lateral con barra
+CUÁDRICEPS	Sentadilla copa con kettlebell
+CUÁDRICEPS	Sentadilla isométrica en pared
+ISQUIOSURALES	Peso muerto rumano con barra
+ISQUIOSURALES	Peso muerto rumano con mancuernas
+ISQUIOSURALES	Peso muerto unipodal con mancuerna contralateral
+ISQUIOSURALES	Peso muerto en barra hexagonal asimétrico
+ISQUIOSURALES	Curl de isquios tumbado en máquina
+ISQUIOSURALES	Curl de isquios tumbado: concéntrica bipodal + excéntrica unipodal
+ISQUIOSURALES	Curl femoral sentado
+ISQUIOSURALES	Curl femoral sentado unilateral
+ISQUIOSURALES	Curl femoral sentado: concéntrica bilateral + excéntrica unilateral
+ISQUIOSURALES	Curl femoral de pie unilateral en máquina
+ISQUIOSURALES	Excéntrico de isquios con sliders bipodal
+ISQUIOSURALES	Excéntrico unipodal de isquios con sliders
+ISQUIOSURALES	Curl de isquios con sliders bipodal
+ISQUIOSURALES	Curl de isquios unipodal con sliders
+ISQUIOSURALES	Curl de isquios en fitball bipodal
+ISQUIOSURALES	Curl de isquios en fitball unipodal
+ISQUIOSURALES	Isométrico unipodal en silla romana
+ISQUIOSURALES	Bisagra de cadera en cinturón ruso
+ISQUIOSURALES	Patada de isquios tumbado con polea cónica
+ISQUIOSURALES	Puente de cadera caminando con los pies
+ISQUIOSURALES	Caídas nórdicas (con ayuda)
+ISQUIOSURALES	Elevación de cadera con pies sobre fitball
+ISQUIOSURALES	Elevación de cadera con pies sobre foam roller
+ISQUIOSURALES	Elevación de cadera unipodal con pie sobre foam roller
+ISQUIOSURALES	Elevación de cadera unipodal con pie sobre fitball
+ISQUIOSURALES	Elevación de cadera unipodal sobre cajón
+ISQUIOSURALES	Caídas nórdicas (sin ayuda)
+ISQUIOSURALES	Puente de glúteo unipodal con cambio
+ISQUIOSURALES	Puente de glúteo unipodal con cambio sobre banco/cajón
+ISQUIOSURALES	Puente de glúteos unilateral elevado
+ABDUCTORES	Abducciones en máquina
+ABDUCTORES	Abducciones libres en máquina de discos
+ABDUCTORES	Clamshell
+ABDUCTORES	Clamshell en plancha lateral
+ADUCTORES	Aducciones en máquina
+ADUCTORES	Aducciones con fitball
+ADUCTORES	Copehnaguen isométrico
+ADUCTORES	Copehnaguen dinámico
+ADUCTORES	Zancada lateral con slider unipodal
+ADUCTORES	Zancada lateral con mancuerna contralateral
+GEMELOS	Elevaciones de talones de pie en máquina
+GEMELOS	Elevaciones de talones sentado en máquina de discos
+GEMELOS	Elevaciones de talones con mancuernas
+GEMELOS	Elevaciones de talones en multipower sobre step
+GEMELOS	Elevaciones de talones en multpower sentado
+GEMELOS	Elevaciones de talones en prensa con rodillas extendidas
+GEMELOS	Elevaciones de talones en prensa con rodillas flexionadas
+ABDOMEN	Crunch abdominal en polea alta con cuerda
+ABDOMEN	Crunch corto con rodillas flexionadas
+ABDOMEN	Elevación + extensión de piernas tumbado
+ABDOMEN	Rueda abdominal
+ABDOMEN	Encogimientos en máquina abdominal
+ABDOMEN	Elevaciones de piernas colgado
+ABDOMEN	Plancha dinámica adelante-atrás en fitball
+ABDOMEN	Revolver la olla en fitball
+ABDOMEN	Rollout en TRX de pie
+ABDOMEN	Crunch abdominal desde polea alta con agarres individuales con glúteo apoyado
+ABDOMEN	Crunch abdominal desde polea alta con cuerda con glúteo apoyado
+ABDOMEN	Plancha isométrica en fitball
+ABDOMEN	Dragon flag
+CORE	Bird dog
+CORE	Dead bug
+CORE	Dead bug contralateral
+CORE	Dead bug con ketllebell
+CORE	Giros dinámicos en landmine
+CORE	Leñador en bipedestación
+CORE	Leñador en posición de zancada
+CORE	Dragon Flag
+CORE	Leñador semiarrodillado
+CORE	Leñador inverso en bipedestación
+CORE	Leñador inverso en posición de zancada
+CORE	Leñador transversal en bipedestación
+CORE	Paso del oso adelante atrás
+CORE	Plancha de manos dinámica llevando rodilla adelante alternativamente
+CORE	Plancha de manos dinámica tocando hombro contrario
+CORE	Plancha de manos isométrica
+CORE	Plancha en cuadrupedia dinámica extendiendo pierna alternativamente
+CORE	Plancha lateral isométrica
+CORE	Press pallof con goma
+CORE	Press pallof con goma+disco
+CORE	Press pallof con rotación externa en half kneeling
+CORE	Press pallof en dead bug
+CORE	Press pallof en half kneeling
+CORE	Remo en bid-dog sobre banco/cajón
+CORE	Sierra en plancha frontal
+CORE	Remo en plancha lateral
+CORE	Clamshell en plancha lateral
+CORE	Press pallof sobre una pierna
+MOVILIDAD	Descenso de pierna asistido con banda
+MOVILIDAD	Movilidad dinámica de psoas con banda
+MOVILIDAD	Rotaciones torácicas de rodillas
+MOVILIDAD	Estiramiento dinámico de flexores de cadera en half kneeling sobre cajón adelante atrás
+MOVILIDAD	Estiramientos dinámicos en línea
+MOVILIDAD	Automovilización nervio ciático con fitball
+MOVILIDAD	90-90
+MOVILIDAD	90-90 forzando posición
+MOVILIDAD	90-90 tumbado boca arriba
+MOVILIDAD	90-90 unilateral
+MOVILIDAD	Cat camel
+MOVILIDAD	Cat camel en onda
+MOVILIDAD	Dorsiflexión con pie sobre cajón
+MOVILIDAD	Dorsiflexión de tobillo con posteriorización del astrágalo
+MOVILIDAD	Dorsiflexión de tobillo sobre pared
+MOVILIDAD	Estiramiento activo aductor con rotación de tobillo
+MOVILIDAD	Estiramiento activo de flexores y extensores en half kneeling + rotación de tobillo
+MOVILIDAD	Estiramiento de flexores de cadera en zancada con rotación y apertura lateral
+MOVILIDAD	Extensión de cadera adelante atrás en cuadrupedia
+MOVILIDAD	Extensión torácica con foam roller
+MOVILIDAD	Extensión torácica con foam roller en pared
+MOVILIDAD	Flexo-extensión de isquios tumbado boca arriba
+MOVILIDAD	Movilidad half kneeling simple
+MOVILIDAD	Movilidad half kneeling hacia afuera
+MOVILIDAD	Movilidad acordeón con foam roller
+MOVILIDAD	Movilidad de cadera en cuadrupedia
+MOVILIDAD	Movilidad de hombros con goma overhead
+MOVILIDAD	Movilidad de hombros con goma overhead asimétrica
+MOVILIDAD	Movilidad de hombros con pica alternativo
+MOVILIDAD	Movilidad de hombros con pica por detrás
+MOVILIDAD	Movilidad de hombros con pica simple
+MOVILIDAD	Movilidad de tobillo en half kneeling
+MOVILIDAD	Movilidad dinámica en línea
+MOVILIDAD	Movilidad en half kneeling adelante-afuera
+MOVILIDAD	Movilidad pierna estirada crossover
+MOVILIDAD	Movilidad pierna estirada lateral
+MOVILIDAD	Péndulo 90º
+MOVILIDAD	Rotación en acordeón
+MOVILIDAD	Rotación en compás
+MOVILIDAD	Rotación torácica con roller en cuadrupedia
+MOVILIDAD	Rotación torácica en cuadrupedia brazo estirado
+MOVILIDAD	Rotación torácica en cuadrupedia mano en nuca
+MOVILIDAD	Rotación torácica half kneeling brazo de pierna adelantada
+MOVILIDAD	Rotaciones torácicas de rodillas
+MOVILIDAD	Rutina básica de movilidad de cadera
+MOVILIDAD	Rutina movilidad y estiramientos activos
+MOVILIDAD	Zancadas con rotación torácica en línea
+OLÍMPICOS	Clean a cajón con mancuernas
+OLÍMPICOS	Arrancada unilateral con mancuerna
+OLÍMPICOS	Clean + press con kettlebell
+OLÍMPICOS	Clean and jerk con mancuerna
+OLÍMPICOS	Doble kettlebell clean and jerk
+OLÍMPICOS	Doble thruster con kettlebell
+OLÍMPICOS	Kettlebell clean
+OLÍMPICOS	Kettlebell clean and jerk
+OLÍMPICOS	Thruster con 2 mancuernas
+OLÍMPICOS	Thruster con barra
+OLÍMPICOS	Thruster con kettlebell
+OLÍMPICOS	Thruster con mancuerna
+PLIOMETRÍA	Sentadilla con salto con kettlebell
+PLIOMETRÍA	Step-over en cajón
+PLIOMETRÍA	Hop lateral a cajón unipodal
+PLIOMETRÍA	Sentadilla con barra con salto
+PLIOMETRÍA	Drop Jump + Jump a valla
+PLIOMETRÍA	Drop jump buscando tocar techo
+PLIOMETRÍA	Hop resistido
+PLIOMETRÍA	Bound + cambio de dirección shuffle
+PLIOMETRÍA	Bound 45º
+PLIOMETRÍA	Bound 45º (doble contacto)
+PLIOMETRÍA	Bound con giro 90º
+PLIOMETRÍA	Bound horizontal
+PLIOMETRÍA	Bound horizontal (doble contacto)
+PLIOMETRÍA	Bound horizontal continuo
+PLIOMETRÍA	Bound lateral clavando
+PLIOMETRÍA	Bound lateral CM
+PLIOMETRÍA	Bound lateral de 45º continuo
+PLIOMETRÍA	Caída de cajón + salto a valla
+PLIOMETRÍA	CMJ continuos en barra hexagonal
+PLIOMETRÍA	Hop a cajón unipodal
+PLIOMETRÍA	Hop de vallas lateral unipodal con bote
+PLIOMETRÍA	Hop de vallas lateral unipodal con parada
+PLIOMETRÍA	Hop de vallas unipodal con bote
+PLIOMETRÍA	Hop de vallas unipodales continuos
+PLIOMETRÍA	Hop desde bipodal a unipodal a cajón
+PLIOMETRÍA	Hop lateral a obstáculo (doble contacto)
+PLIOMETRÍA	Hop lateral a obstáculos
+PLIOMETRÍA	Hop lateral a step 20cm
+PLIOMETRÍA	Hop unipodal de vallas con parada
+PLIOMETRÍA	Hops de vallas laterales continuos
+PLIOMETRÍA	Jump a cajón 40cm (Contramovimiento)
+PLIOMETRÍA	Jump horizontal
+PLIOMETRÍA	Jump plano transversal
+PLIOMETRÍA	Landing asimétrico
+PLIOMETRÍA	Landing bilateral
+PLIOMETRÍA	Landing con cambio de plano
+PLIOMETRÍA	Landing unilateral
+PLIOMETRÍA	Peso muerto en barra hexagonal con salto
+PLIOMETRÍA	Salto a cajón
+PLIOMETRÍA	Salto a cajón alto
+PLIOMETRÍA	Salto a cajón alto sin manos
+PLIOMETRÍA	Saltos de tobillo asistidos con banda
+PLIOMETRÍA	Saltos de vallas con bote
+PLIOMETRÍA	Saltos de vallas con parada
+PLIOMETRÍA	Saltos de vallas continuo
+PLIOMETRÍA	Saltos pliométricos asistidos con banda
+PLIOMETRÍA	Sentadilla con barra con salto
+PLIOMETRÍA	Sentadilla con salto con kettlebell
+PLIOMETRÍA	SJ en barra hexagonal
+PLIOMETRÍA	Skipping de potencia
+MEDBALL	Lanzamiento frontal arrodillado
+MEDBALL	Lanzamiento frontal con giro a una sóla pierna
+MEDBALL	Lanzamiento frontal con giro alternando
+MEDBALL	Lanzamiento frontal en bipedestación
+MEDBALL	Lanzamiento frontal rotatorio con un sólo brazo
+MEDBALL	Lanzamiento lateral con giro dando dos pasos
+MEDBALL	Lanzamiento lateral con giro dando un paso
+MEDBALL	Lanzamiento lateral con giro en bipedestación
+MEDBALL	Lanzamiento por encima de la cabeza en bipedestación
+MEDBALL	Medball de puntillas al suelo
+MEDBALL	Medball de puntillas al suelo de lado a lado
+MEDBALL	Slamball de puntillas al suelo
+WALL DRILLS	Wall drill switches
+WALL DRILLS	Wall drill simple
+WALL DRILLS	Wall drill march
+WALL DRILLS	Wall drill load & lift
+WALL DRILLS	Wall drill load & lift con cambio de pierna
+WALL DRILLS	Wall drill lateral
+WALL DRILLS	Wall drill lateral load & lift
+WALL DRILLS	Wall drill isométrico
+WALL DRILLS	Wall drill crossover
+ISOMÉTRICOS	Sentadilla ISO PUSH contra el rack
+ISOMÉTRICOS	Complex training: split squat iso hold con barra hexagonal + saltos en split squat unipodal
+ISOMÉTRICOS	Half Kneeling Hip Flexor Iso Hold
+ISOMÉTRICOS	Half kneeling iso hold
+ISOMÉTRICOS	Iso hold split squat
+TÉCNICA DE CARRERA	Técnica de carrera 1
+TÉCNICA DE CARRERA	Técnica de carrera 2
+TÉCNICA DE CARRERA	Marcha unipodal con miniband
+TÉCNICA DE CARRERA	Marcha estática con miniband
+AERÓBICO	Skipping estático
+AERÓBICO	Step-up
+AERÓBICO	Semi-burpee sobre step
+ESTIRAMIENTOS	Estiramiento cuádriceps decúbito lateral
+ESTIRAMIENTOS	Estiramiento de isquios en cajón
+ESTIRAMIENTOS	Estiramiento de isquios en línea
+ESTIRAMIENTOS	Estiramiento dinámico de cadena posterior desde cuclillas
+ESTIRAMIENTOS	Estiramiento dinámico de flexores de cadera en half kneeling sobre cajón adelante atrás
+ESTIRAMIENTOS	Estiramiento dinámico de flexores de cadera en half kneeling sobre cajón con rotación desde brazo
+ESTIRAMIENTOS	Estiramiento dinámico peso muerto unipodal brazos en cruz
+ESTIRAMIENTOS	Estiramiento isquios en half kneeling
+ESTABILIDAD	Split con goma en rodilla evitando valgo
+ESTABILIDAD	Caída desde cajón con landing unipodal
+HIIT	Cambios de ritmo en bici de spinning/watt bike
+HIIT	Cambios de ritmo en remoergómetro
+HIIT	Cambios de ritmo en airbike
+ESPALDA	Block pull
+DELTOIDES ANTERIOR	Press militar sentado sin respaldo
