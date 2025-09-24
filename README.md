@@ -38,7 +38,7 @@ FitFlow nace como respuesta a la creciente demanda de soluciones digitales en el
 ## 🧠 **Tecnologías utilizadas**
 
 - **Lenguajes:** Java, Kotlin  
-- **Frameworks:** Astro  
+- **Frameworks:** JetCompose  
 - **Herramientas:** StarUML, PlantUML, Draw.io, Figma, GitHub
 
 ---
